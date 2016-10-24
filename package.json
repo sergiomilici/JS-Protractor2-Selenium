@@ -1,10 +1,9 @@
 {
-  "name": "JS-Protractor-Selenium",
-  "version": "0.0.0",
-  "description": "Parallel tests protractor  =============",
-  "main": "",
-  "devDependencies": {
-    "bufferutil": "^1.2.1",
-    "protractor": "^2.1.0"
-  }
+	"name": "JS-Protractor-Selenium",
+	"version": "0.0.0",
+	"description": "Parallel tests protractor  =============",
+	"main": "",
+	"devDependencies": {
+		"protractor": "^2.1.0"
+	}
 }
